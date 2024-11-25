@@ -1,4 +1,4 @@
-module ed25519mod
+module github.com/blueicesir/ed25519mod
 
 go 1.22.5
 
